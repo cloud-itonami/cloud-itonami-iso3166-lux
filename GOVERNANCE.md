@@ -26,8 +26,8 @@ license should add or update an ADR.
 Anyone may fork and operate independently. itonami.cloud certification is
 a separate trust mark and should require security, audit, support and
 data-flow review, INCLUDING proof of a working referral relationship with
-Cambodian-licensed counsel or a registered agent for whatever licensed
-representation the law of Cambodia requires for public-procurement
+Luxembourg-licensed counsel or a registered agent for whatever licensed
+representation the law of Luxembourg requires for public-procurement
 filings.
 
 Certified operators can lose certification for:
