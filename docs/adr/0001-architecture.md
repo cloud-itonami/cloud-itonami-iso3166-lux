@@ -34,5 +34,5 @@ gate, so it was deliberately excluded rather than force-fit -- the same
 honest-exclusion discipline `cloud-itonami-iso3166-lie` applied to
 Liechtenstein's FMA. `rep-spec-basis` is also honestly left nil for
 LUX -- not investigated this session, not force-fit. See
-`src/marketentry/facts.cljc` and `src/marketentry/governor.cljc` for
+`src/marketentry/facts.cljk` and `src/marketentry/governor.cljk` for
 the full citation trail and gap disclosure.
