@@ -70,9 +70,9 @@ summaries state only what the cited source confirms. An item not in
 ## Development
 
 ```bash
-clojure -M:dev:test
-clojure -M:lint
-clojure -M:dev:run   # drive the demo through one OperationActor
+kbb -M:dev:test
+kbb -M:lint
+kbb -M:dev:run   # drive the demo through one OperationActor
 ```
 
 See CI (`.github/workflows/ci.yml`) for how the `kotoba-lang/langgraph` +
