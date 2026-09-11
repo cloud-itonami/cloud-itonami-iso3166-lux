@@ -33,7 +33,7 @@ bridge those siblings carry):
   restricted-procedure-without-publication / procédure négociée
   ceiling (Art. 20 + RGD Art. 151, as amended 2024 -- the original 2018
   text alone would have understated this at 60 000 EUR).
-- `src/statute/facts.cljc` -- general-law catalog: Loi du 10 août 1915
+- `src/statute/facts.cljk` -- general-law catalog: Loi du 10 août 1915
   (sociétés commerciales), Code du travail (Livre 1er, Titre II --
   contrat de travail) and Loi modifiée du 4 décembre 1967 (impôt sur le
   revenu). CSSF (financial-sector supervision) was investigated and
@@ -55,7 +55,7 @@ Alongside the market-entry / statute catalogs, this repo carries a
 `com-junkawasaki/root`) — national dishes, protected products, beverages,
 crafts, festivals and heritage sites for Luxembourg:
 
-- `src/culture/facts.cljc` — the catalog, source of truth (keyed by
+- `src/culture/facts.cljk` — the catalog, source of truth (keyed by
   uppercase ISO3, mirroring `statute.facts`).
 - `schema/culture.edn` — DataScript schema.
 - `data/culture-tx.edn` — derived DataScript tx-data (regenerated from
